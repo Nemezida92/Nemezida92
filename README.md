@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="[your-linkedin-URL](https://ufa.hh.ru/resume/973c1863ff043a87d10039ed1f643147777566)">
+    <img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="HH Badge"/>
 </div>
 
 <div align="center">
